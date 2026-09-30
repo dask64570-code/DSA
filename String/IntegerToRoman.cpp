@@ -88,7 +88,7 @@ string str(int num){
         return result;
     } 
     int main(){
-    string s;
+    int s;
     cout<<"enter the number: ";
     cin>>s;
 
